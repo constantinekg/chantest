@@ -4,3 +4,5 @@ myainetwork@gmail.com
 
 This script working for system online checking.
 Please run this script with -h parameter to see all functions.
+
+You can get this tool by the way: git clone https://github.com/waxman435/chantest/
